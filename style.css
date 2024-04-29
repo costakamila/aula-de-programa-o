@@ -71,13 +71,4 @@ body {
         }
     }
 }
-<div class="container">
-<div class="item"></div>
-<div class="item"></div>
-<div class="item"></div>
-</div>
-<h2 class="titulo-principal">Escola de Tecnologia<span>_</span></h2>
-<div class="botoes">
-    <button class="botao">Nossos cursos</button>
-    <button class="botao">Quem somos?</button>
-</div>
+
